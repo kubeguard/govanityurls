@@ -1,7 +1,5 @@
-# Example vanity.yaml
-
-host: gomodules.xyz
+host: go.kubeguard.dev
 
 paths:
-  /sync:
-    repo: https://github.com/gomodules/sync
+  /guard:
+    repo: https://github.com/kubeguard/guard
