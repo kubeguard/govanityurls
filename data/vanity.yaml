@@ -3,5 +3,3 @@ host: go.kubeguard.dev
 paths:
   /guard:
     repo: https://github.com/kubeguard/guard
-  /proxyserver:
-    repo: https://github.com/kubeguard/proxyserver
